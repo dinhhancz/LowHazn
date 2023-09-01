@@ -72,7 +72,7 @@ namespace  NDH
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## <p align="center">Profile Views</p>
-## <p align="center">[![Hits](https://hits.sh/github.com/ngoctienTNT/LowHazn.svg?style=for-the-badge&label=Views&extraCount=5392&color=54856b)](https://hits.sh/github.com/LowHazn/])</p>
+## <p align="center">[![Hits](https://hits.sh/github.com/ngoctienTNT/LowHazn.svg?style=for-the-badge&label=Views&extraCount=5392&color=54856b)](https://hits.sh/github.com/LowHazn/)</p>
 
 ## <p align="center">Top language</p>
 

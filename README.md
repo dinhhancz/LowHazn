@@ -72,18 +72,18 @@ namespace  NDH
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## <p align="center">Profile Views</p>
-## <p align="center">[![Hits](https://hits.sh/github.com/ngoctienTNT/ngoctienTNT.svg?style=for-the-badge&label=Views&extraCount=4867&color=54856b)](https://hits.sh/github.com/ngoctienTNT/ngoctienTNT/)</p>
+## <p align="center">[![Hits](https://hits.sh/github.com/ngoctienTNT/LowHazn.svg?style=for-the-badge&label=Views&extraCount=5392&color=54856b)](https://hits.sh/github.com/LowHazn/])</p>
 
 ## <p align="center">Top language</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowHazn&langs_count=10&theme=tokyonight&layout=compact" alt="LowHazn :: Top Langs" /></p>
 
 ## <p align="center">Profile stats</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LowHazn&show_icons=true&theme=tokyonight" alt="LowHazn :: Profile Stats" /></p>
 
 <p align="center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LowHazn&show_icons=true&theme=tokyonight%22%20alt=%22LowHazn" />
 </p>
 <hr>
 <br>

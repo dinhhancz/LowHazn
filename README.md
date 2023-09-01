@@ -92,7 +92,7 @@ namespace  NDH
 
 ## <p align="center">Just a snake eating my contributions</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/LowHazn/LowH/blob/main/github-contribution-grid-snake.svg">
 </p>
 
 <hr>

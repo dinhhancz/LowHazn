@@ -76,16 +76,15 @@ namespace  NDH
 
 ## <p align="center">Top language</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowHazn&langs_count=10&theme=tokyonight&layout=compact" alt="LowHazn :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
 
 ## <p align="center">Profile stats</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LowHazn&show_icons=true&theme=tokyonight" alt="LowHazn :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
 
 <p align="center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LowHazn&show_icons=true&theme=tokyonight" alt="LowHazn" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT" />
 </p>
-
 <hr>
 <br>
 

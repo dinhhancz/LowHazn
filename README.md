@@ -1,26 +1,26 @@
-# <p align="center" color="red">Trần Ngọc Tiến</p>
+# <p align="center" color="red">NGUYEN DINH HAN</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/LowHazn">
+	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="NDH">
 	</a>
 </p>
 
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace  NDH
 {
-    class ngoctienTNT
+    class LowHazn
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
-            string Age = "2002";
+            string Name = "Nguyen Dinh Han";
+            string Age = "2005";
             string Gender = "Male";
-	    string Email = "ngoctienTNT.vn@gmail.com";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+	    string Email = "LowHazn@gmail.com";
+            string Address = "Đắk Lắk, Việt Nam";
+            string University = "Czech University of Life Sciences Prague (CZU)";
             string Skills = "C++, C#, Java, Dart, Python, HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }

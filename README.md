@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/LowHazn">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="NDH">
+	<img src="https://avatars.githubusercontent.com/u/96980330" width = "200" alt="NDH">
 	</a>
 </p>
 
